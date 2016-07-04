@@ -1,0 +1,10 @@
+Each directory contains an implementation of a program that performs encryption
+on files in the directory name's language. For instance the directory "c++" 
+contains the encryption program written in c++. Instructions for compiling and
+running each program are contained in a README in each directory. 
+
+In this directory are example files. You can simply copy them into the 
+respective directories and see how the encryption and decryption works.
+
+The encryption is performed using a vignere cipher accross every byte of a
+file. 

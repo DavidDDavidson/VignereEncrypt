@@ -1,0 +1,13 @@
+To compile encrypt.hs and decrypt.hs, simple call ghc on the files. Use
+
+ghc encrypt.hs
+
+to compile encrypt.hs and
+
+ghc decrypt.hs
+
+to compile decrypt.hs.
+
+How to use the executables:
+
+$(encrypt or decrypt) $(input file name) $(output file name) $(key)

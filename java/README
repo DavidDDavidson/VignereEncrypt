@@ -1,0 +1,18 @@
+Use "javac" to compile each program
+
+for example:
+
+>javac encrypt.java
+>
+
+Once compiled use "java" followed by compiled executable ("encrypt" or "decrypt") 
+followed by arguments. The arguments are as follows, name of input file, name
+of output file and key.
+
+An example of running an encryption on the file foo:
+
+>java encrypt foo bar key
+>
+
+This command encrypts the file "foo" with the key "baz" and outputs the 
+encrypted text into the file "bar".

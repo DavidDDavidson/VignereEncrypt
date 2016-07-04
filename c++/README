@@ -1,0 +1,13 @@
+To compile encrypt.cpp and decrypt.cpp, simply use the Makefile provided. Use
+
+make encrypt
+
+to compile encrypt.cpp and
+
+make decrypt
+
+to compile decrypt.cpp.
+
+How to use the executables:
+
+$(encrypt or decrypt) $(input file name) $(output file name) $(key)

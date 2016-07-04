@@ -1,0 +1,11 @@
+To run encryption on a file, use the "python3" command, followed by what you'd
+like to perform (encryption or decryption), followed by name of input file,
+name of output file, and key.
+
+For example:
+
+>python3 encrypt.py in out key
+>
+
+In this example, the file "in" is encrypted using the key "key" and the 
+resulting encrypted data is written to the file "out".
